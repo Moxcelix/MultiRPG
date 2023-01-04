@@ -1,0 +1,35 @@
+[Ll]ogs/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+Assets/AssetStoreTools*
+
+steam_appid.txt
+
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+*.pidb.meta
+sysinfo.txt
+*.apk
+*.exe
+*.unitypackage
+
+# msvs temporary
+**/.vs/
+
+# jetbrains temporary
+**/.idea/
