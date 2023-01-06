@@ -21,6 +21,7 @@ steam_appid.txt
 *.booproj
 *.svd
 *.pdb
+*.zip
 
 *.pidb.meta
 sysinfo.txt
